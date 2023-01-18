@@ -7,6 +7,7 @@ public class Primitives {
         double largeDecimalnumbers=48456515.448494;
         long largeInteger=548465158486115L;
         boolean check=true; //or false
+        
         //String is not a prmitive datatype
         String name="Ujjwal";
     }
