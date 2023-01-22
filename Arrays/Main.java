@@ -30,10 +30,10 @@ public class Main {
         //     System.out.println(element);
         // }
 
-        int[][] arr;
-        for(int[] a: arr){
-            System.out.println(Arrays.toString(a));
-        }
+        // int[][] arr1;
+        // for(int[] a: arr1){
+        //     System.out.println(Arrays.toString(a));
+        // }
 
     }
 }
