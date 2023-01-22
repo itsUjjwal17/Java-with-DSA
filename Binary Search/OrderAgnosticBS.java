@@ -3,6 +3,7 @@ public class OrderAgnosticBS {
         int[] arr={1,2,3,4,5,6,7,8,9,10};
         System.out.println(OrderAgnosticBS(arr, 10));
     }
+    
 
     static int OrderAgnosticBS(int[] arr,int target){
         int start=0;
