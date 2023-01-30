@@ -1,4 +1,3 @@
-
 public class BoxPattern {
     public static void main(String[] args) {
         pattern(5);
