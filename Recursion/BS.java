@@ -15,7 +15,7 @@ public class BS {
         if (arr[m] == target) {
             return m;
         }
-        if (target < arr[m]) {
+        if (target < arr[m]) { 
             return search(arr, target, start, m - 1);
         }
 
