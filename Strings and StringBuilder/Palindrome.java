@@ -2,7 +2,6 @@ public class Palindrome {
     public static void main(String[] args) {
         String str="asdfdsa";
         System.out.println(isPalindrome(str));
-        
     }
     static boolean isPalindrome(String str){
         if(str==null || str.length()==0){
