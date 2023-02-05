@@ -26,7 +26,5 @@ public class Nto1 {
         fun(n-1);
         funRev(n-1);
         System.out.println(n);
-    }
-    
-    
+    }   
 }
