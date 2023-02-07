@@ -9,7 +9,7 @@ public class DigitSum {
             return 1;
         }
         return numsum(n/10)+(n%10);
-        
+    
     }
 }
 
