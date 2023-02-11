@@ -7,7 +7,7 @@ public class Concept {
             return;
         }
         System.out.println(n);
-        // fun(n--); //infinite loop
-        fun(--n); 
+        // fun(n--); //infinite loop // pass the value of n first then subtract it i.e. passing original value only
+        fun(--n); //subtract first then pass
     }
 }
