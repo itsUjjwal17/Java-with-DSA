@@ -1,6 +1,6 @@
 public class Sorted{
     public static void main(String[] args) {
-        int[] arr={1,2,3,5,6};
+        int[] arr={1,2,3,5,6,73,62,51,43,12};
         System.out.println(array(arr, 0));
     }
     //array is sorted or not???
