@@ -17,8 +17,8 @@ public class WrapperExample {
 //        final int bonus = 2;
 //        bonus = 3;
 
-        final A kunal = new A("Kunal Kushwaha");
-        kunal.name = "other name";
+        final A ujjwal = new A("Ujjwal Krishna");
+        ujjwal.name = "other name";
 
         // when a non primitive is final, you cannot reassign it.
 //        kunal = new A("new object");

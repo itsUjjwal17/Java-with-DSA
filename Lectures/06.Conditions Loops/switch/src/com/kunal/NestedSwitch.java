@@ -10,10 +10,10 @@ public class NestedSwitch {
 
         switch (empID) {
             case 1:
-                System.out.println("Kunal Kushwaha");
+                System.out.println("Ujjwal Krishna");
                 break;
             case 2:
-                System.out.println("Rahul Rana");
+                System.out.println("Sujal Krishna");
                 break;
             case 3:
                 System.out.println("Emp Number 3");
@@ -34,8 +34,8 @@ public class NestedSwitch {
 
         // better way to write
         switch (empID) {
-            case 1 -> System.out.println("Kunal Kushwaha");
-            case 2 -> System.out.println("Rahul Rana");
+            case 1 -> System.out.println("Ujjwal Krishna");
+            case 2 -> System.out.println("Sujal");
             case 3 -> {
                 System.out.println("Emp Number 3");
                 switch (department) {

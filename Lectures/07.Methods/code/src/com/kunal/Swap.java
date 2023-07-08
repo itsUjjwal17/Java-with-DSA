@@ -14,13 +14,13 @@ public class Swap {
 
         System.out.println(a + " " + b);
 
-        String name = "Kunal Kushwaha";
+        String name = "Ujjwal Krishna";
         changeName(name);
         System.out.println(name);
     }
 
     static void changeName(String naam) {
-        naam = "Rahul Rana"; // creating a new object
+        naam = "Sujal Krishna"; // creating a new object
     }
 
     static void swap(int num1, int num2) {

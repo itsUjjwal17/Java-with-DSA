@@ -4,8 +4,8 @@ import java.util.Arrays;
 
 public class SearchInStrings {
     public static void main(String[] args) {
-        String name = "Kunal";
-        char target = 'u';
+        String name = "Ujjwal";
+        char target = 'w';
 //        System.out.println(search(name, target));
 
         System.out.println(Arrays.toString(name.toCharArray()));

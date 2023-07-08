@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class VarArgs {
     public static void main(String[] args) {
 //        fun();
-//        multiple(2, 3, "Kunal", "Rahul", "dvytsbhusc");
+//        multiple(2, 3, "Ujjwal", "Krishna", "dvytsbhusc");
 //        demo();
     }
 

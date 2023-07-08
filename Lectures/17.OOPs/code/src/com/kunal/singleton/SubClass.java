@@ -12,7 +12,7 @@ public class SubClass extends A {
     }
 
     public static void main(String[] args) {
-        A obj = new A(45, "Kunal Kushwaha");
+        A obj = new A(45, "Ujjwal Krishna");
 //        int n = obj.num;
     }
 }
@@ -24,7 +24,7 @@ class SubSubclass extends SubClass {
     }
 
     public static void main(String[] args) {
-        SubSubclass obj = new SubSubclass(45, "Kunal Kushwaha");
+        SubSubclass obj = new SubSubclass(45, "Ujjwal Krishna");
         int n = obj.num;
     }
 }
@@ -36,7 +36,7 @@ class SubClass2 extends A {
     }
 
     public static void main(String[] args) {
-        SubClass2 obj = new SubClass2(45, "Kunal Kushwaha");
+        SubClass2 obj = new SubClass2(45, "Ujjwal Krishna");
 //        int n = obj.num;
     }
 }

@@ -20,26 +20,26 @@ public class Main {
         Student[] students = new Student[5];
 
         // just declaring
-//        Student kunal;
-//        kunal = new Student();
+//        Student ujjwal;
+//        ujjwal = new Student();
 
-        Student kunal = new Student(15, "Kunal Kushwaha", 85.4f);
-        Student rahul = new Student(18, "Rahul Rana", 90.3f);
+        Student ujjwal = new Student(15, "Ujjwal Krishna", 85.4f);
+        Student vishal = new Student(18, "Vishal", 90.3f);
 
-//        kunal.rno = 13;
-//        kunal.name = "Kunal Kushwaha";
-//        kunal.marks = 88.5f;
+//        ujjwal.rno = 13;
+//        ujjwal.name = "Ujjwal Krishna";
+//        ujjwal.marks = 88.5f;
 
 
-//        kunal.changeName("Shoe lover");
-//        kunal.greeting();
+//        ujjwal.changeName("Shoe lover");
+//        ujjwal.greeting();
 
 //
-        System.out.println(kunal.rno);
-        System.out.println(kunal.name);
-        System.out.println(kunal.marks);
+        System.out.println(ujjwal.rno);
+        System.out.println(ujjwal.name);
+        System.out.println(ujjwal.marks);
 
-        Student random = new Student(kunal);
+        Student random = new Student(ujjwal);
         System.out.println(random.name);
 
         Student random2 = new Student();

@@ -7,6 +7,6 @@ public class PrettyPrinting {
 
 //        System.out.printf("Pie: %.3f", Math.PI);
 
-        System.out.printf("Hello my name is %s and I am %s", "Kunal", "Cool");
+        System.out.printf("Hello my name is %s and I am %s", "Ujjwal", "Cool");
     }
 }

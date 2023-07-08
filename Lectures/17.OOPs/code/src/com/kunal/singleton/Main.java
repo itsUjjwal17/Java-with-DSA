@@ -12,7 +12,7 @@ public class Main {
 
         // all 3 ref variables are pointing to just one object
 
-        A a = new A(10, "Kunal");
+        A a = new A(10, "Ujjwal");
         a.getNum();
 //        int n = a.num;
     }
